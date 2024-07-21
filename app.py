@@ -11,7 +11,7 @@ from exception import FlightException
 
 print("Script Started")
 
-N = 500
+N = 5000
 M = (50,100)
 K = (100,200)
 L= (0.005,0.001)
